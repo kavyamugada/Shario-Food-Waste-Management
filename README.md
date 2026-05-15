@@ -12,7 +12,7 @@ Developed a responsive frontend using React.js, Vanilla JavaScript, and Tailwind
 
 ## 🌟 Key Features
 
-- Unified Account System
+- Unified Account System   
 - Secure JWT Authentication
 - OTP Email Verification
 - Nearby Food Discovery
